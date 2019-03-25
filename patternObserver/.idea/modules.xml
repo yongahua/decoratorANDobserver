@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/02架构师内功心法/06.装饰者模式及观察者模式/课堂源码/gupaoedu-vip-pattern-observer/gupaoedu-vip-pattern-observer.iml" filepath="$PROJECT_DIR$/../../../VIP专享---2019期录播视频及资料/02架构师内功心法/06.装饰者模式及观察者模式/课堂源码/gupaoedu-vip-pattern-observer/gupaoedu-vip-pattern-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternObserver.iml" filepath="$PROJECT_DIR$/patternObserver.iml" />
+    </modules>
+  </component>
+</project>

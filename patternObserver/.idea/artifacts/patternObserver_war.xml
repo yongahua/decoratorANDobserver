@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="patternObserver:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="patternObserver.war">
+      <element id="artifact" artifact-name="patternObserver:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="patternDecorator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="patternDecorator.war">
+      <element id="artifact" artifact-name="patternDecorator:war exploded" />
+    </root>
+  </artifact>
+</component>

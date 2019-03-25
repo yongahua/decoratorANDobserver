@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="patternAdapter:war">
+    <output-path>$PROJECT_DIR$/../../adapterANDtemplate/patternAdapter/target</output-path>
+    <root id="archive" name="patternAdapter.war">
+      <element id="artifact" artifact-name="patternAdapter:war exploded" />
+    </root>
+  </artifact>
+</component>

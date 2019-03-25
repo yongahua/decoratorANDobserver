@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="patternDecorator:war exploded">
+    <output-path>$PROJECT_DIR$/target/patternDecorator</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="patternDecorator" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/patternDecorator/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="patternDecorator/web/Web" />
+    </root>
+  </artifact>
+</component>
